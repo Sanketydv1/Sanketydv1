@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Sanketydv1
-- 👀 I’m interested in full Stack devlopment
-- 🌱 I’m currently learning react.js / Node.js
+- 👋 Hi, I’m Sanket
+- 👀 I’m interested in full Stack devlopment(MERN,Python)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ./Sanketydv1
 
